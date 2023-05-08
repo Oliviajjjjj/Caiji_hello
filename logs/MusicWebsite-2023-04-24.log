@@ -1,0 +1,64 @@
+2023-04-24 21:47:25 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 1.8.0_201 on LAPTOP-KHDN7OPL with PID 13244 (E:\AJ'S MUSICOM\music-website\music-server\target\classes started by ASUS in E:\AJ'S MUSICOM\music-website)
+2023-04-24 21:47:25 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2023-04-24 21:47:26 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-24 21:47:26 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-24 21:47:26 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-04-24 21:47:26 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-04-24 21:47:27 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2023-04-24 21:47:29 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8080 (http)
+2023-04-24 21:47:29 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 3045 ms
+2023-04-24 21:47:29 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2023-04-24 21:47:29 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-24 21:47:29 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 4.793 seconds (JVM running for 7.23)
+2023-04-24 21:48:28 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2023-04-24 21:48:28 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 2 ms
+2023-04-24 21:48:28 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2023-04-24 21:48:28 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2023-04-24 22:00:35 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 1.8.0_201 on LAPTOP-KHDN7OPL with PID 22152 (E:\AJ'S MUSICOM\music-website\music-server\target\classes started by ASUS in E:\AJ'S MUSICOM\music-website)
+2023-04-24 22:00:35 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2023-04-24 22:00:35 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-24 22:00:35 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-24 22:00:36 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-04-24 22:00:36 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-04-24 22:00:36 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+2023-04-24 22:00:38 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8080 (http)
+2023-04-24 22:00:38 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 2744 ms
+2023-04-24 22:00:39 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2023-04-24 22:00:39 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-24 22:00:39 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 3.883 seconds (JVM running for 5.245)
+2023-04-24 22:01:10 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2023-04-24 22:01:10 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 1 ms
+2023-04-24 22:01:10 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2023-04-24 22:01:10 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2023-04-24 22:02:24 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 1.8.0_201 on LAPTOP-KHDN7OPL with PID 27468 (E:\AJ'S MUSICOM\music-website\music-server\target\classes started by ASUS in E:\AJ'S MUSICOM\music-website)
+2023-04-24 22:02:24 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2023-04-24 22:02:24 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-24 22:02:24 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-24 22:02:24 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-04-24 22:02:24 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-04-24 22:02:24 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+2023-04-24 22:02:26 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8080 (http)
+2023-04-24 22:02:26 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 2863 ms
+2023-04-24 22:02:27 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2023-04-24 22:02:27 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-24 22:02:27 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 3.965 seconds (JVM running for 5.095)
+2023-04-24 22:02:35 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2023-04-24 22:02:35 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 2 ms
+2023-04-24 22:02:35 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2023-04-24 22:02:35 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2023-04-24 22:41:23 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 1.8.0_201 on LAPTOP-KHDN7OPL with PID 13228 (E:\AJ'S MUSICOM\music-website\music-server\target\classes started by ASUS in E:\AJ'S MUSICOM\music-website)
+2023-04-24 22:41:23 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2023-04-24 22:41:23 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-24 22:41:23 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-24 22:41:24 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-04-24 22:41:24 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-04-24 22:41:24 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 15 ms. Found 0 Redis repository interfaces.
+2023-04-24 22:41:26 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8080 (http)
+2023-04-24 22:41:26 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 2991 ms
+2023-04-24 22:41:27 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2023-04-24 22:41:27 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-24 22:41:27 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 4.255 seconds (JVM running for 5.598)
+2023-04-24 22:41:30 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2023-04-24 22:41:30 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 2 ms
+2023-04-24 22:41:30 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2023-04-24 22:41:30 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.

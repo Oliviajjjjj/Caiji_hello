@@ -1,0 +1,31 @@
+2022-12-25 17:08:31 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 1.8.0_201 on LAPTOP-KHDN7OPL with PID 23420 (E:\AJ'S MUSICOM\music-website\music-server\target\classes started by ASUS in E:\AJ'S MUSICOM\music-website)
+2022-12-25 17:08:31 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2022-12-25 17:08:31 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-25 17:08:31 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-25 17:08:32 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-12-25 17:08:32 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-12-25 17:08:32 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+2022-12-25 17:08:34 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8080 (http)
+2022-12-25 17:08:34 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 3441 ms
+2022-12-25 17:08:35 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-25 17:08:35 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-25 17:08:35 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 4.782 seconds (JVM running for 6.841)
+2022-12-25 17:09:38 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 1.8.0_201 on LAPTOP-KHDN7OPL with PID 9300 (E:\AJ'S MUSICOM\music-website\music-server\target\classes started by ASUS in E:\AJ'S MUSICOM\music-website)
+2022-12-25 17:09:38 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2022-12-25 17:09:38 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-25 17:09:38 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-25 17:09:38 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-12-25 17:09:38 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-12-25 17:09:38 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2022-12-25 17:09:40 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8080 (http)
+2022-12-25 17:09:40 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 2708 ms
+2022-12-25 17:09:41 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-25 17:09:41 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-25 17:09:41 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 4.09 seconds (JVM running for 5.458)
+2022-12-25 17:10:08 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-25 17:10:08 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 2 ms
+2022-12-25 17:10:08 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /
+2022-12-25 17:10:08 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /favicon.ico
+2022-12-25 17:12:02 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-25 17:12:03 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-25 23:13:28 WARN [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=48s506ms322µs200ns).

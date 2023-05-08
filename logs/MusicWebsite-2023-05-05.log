@@ -1,0 +1,28 @@
+2023-05-05 01:35:54 WARN [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=48m41s966ms535µs).
+2023-05-05 04:41:20 WARN [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h1m56s774ms554µs300ns).
+2023-05-05 19:57:16 WARN [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11h28m24s795ms77µs400ns).
+2023-05-05 19:59:00 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-05-05 20:19:23 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2023-05-05 20:19:23 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2023-05-05 20:25:26 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 1.8.0_201 on LAPTOP-KHDN7OPL with PID 23312 (E:\AJ'S MUSICOM\music-website\music-server\target\classes started by ASUS in E:\AJ'S MUSICOM\music-website)
+2023-05-05 20:25:26 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2023-05-05 20:25:26 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-05 20:25:26 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-05 20:25:27 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-05-05 20:25:27 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-05-05 20:25:27 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2023-05-05 20:25:30 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8080 (http)
+2023-05-05 20:25:30 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 3373 ms
+2023-05-05 20:25:31 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2023-05-05 20:25:31 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8080 (http) with context path ''
+2023-05-05 20:25:31 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 4.857 seconds (JVM running for 6.48)
+2023-05-05 20:25:31 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2023-05-05 20:25:31 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 0 ms
+2023-05-05 20:25:31 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /ws
+2023-05-05 20:25:40 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /ws
+2023-05-05 20:25:57 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /ws
+2023-05-05 20:26:30 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /ws
+2023-05-05 20:27:11 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2023-05-05 20:27:11 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2023-05-05 21:01:41 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-05-05 21:01:49 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
